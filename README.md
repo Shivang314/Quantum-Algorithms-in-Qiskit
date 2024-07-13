@@ -1,0 +1,1 @@
+This is a implementation of Max 3 SAT using Quantum Approximate Optimization Algorithm. I am new to Github, i'm still learning.  i'll make changes to this repo soon and add new algorithms and their implementation.
